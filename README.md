@@ -13,7 +13,7 @@ Table of Contents:
 
 ### <a name="clone-project"></a> Clone Project from Git
 ```sh
-npm git clone https://github.com/mck86/homedepotreact.git
+git clone https://github.com/mck86/homedepotreact.git
 ```
 ### <a name="install-dependencies"></a> Install Dependencies
 ```sh
